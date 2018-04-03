@@ -1,0 +1,32 @@
+Ctrl+Shift+Up/Down，向上/下移动语句
+Ctrl+H，显示类结构图（类的继承层次）
+Ctrl+Y 删除当前行
+Ctrl+D 复制当前行到下一行
+Ctrl+Alt+O 优化(删除)导入的类和包
+Alt+回车 导入包,自动修正
+Ctrl+X
+
+Shift+F6，重命名(eclipse中为F2)
+Ctrl+R，替换
+
+toString/getter/setter/constructor Alt+Insert
+
+Ctrl + Alt + L	格式化代码，可以对当前文件和整个包目录使用
+Ctrl + R	在当前文件进行文本替换
+Ctrl＋Alt＋T可以把代码包在一块内，例如try/catch
+【Atl+Shift+L】{Ctrl+Alt+V} 提取本地变量。
+
+Ctrl+F2，停止
+Alt+Shift+F9，选择 Debug
+Alt+Shift+F10，选择 Run
+Ctrl+Shift+F9，编译
+Ctrl+Shift+F10，运行
+Ctrl+Shift+F8，查看断点
+F8，步过
+F7，步入
+Shift+F7，智能步入
+Shift+F8，步出
+Alt+Shift+F8，强制步过
+Alt+Shift+F7，强制步入
+Alt+F9，运行至光标处
+Ctrl+Alt+F9，强制运行至光标处
